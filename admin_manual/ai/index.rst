@@ -11,5 +11,6 @@ Artificial Intelligence
     app_llm2
     app_stt_whisper2
     app_context_chat
+    app_summarai
     app_api_and_external_apps
     ai_as_a_service
